@@ -1,4 +1,4 @@
-DAT6 final project: Music Science!
+DAT6 final project: Music Science! &#9835;
 =======
 Cory Kendrick
 --------------
@@ -14,7 +14,7 @@ Or, what factors -- if any -- can predict artist or song popularity before it ha
 * Clustering/User Segmentation: segment users based on listening history
 
 **Datasets**:
-* `millionsongsubset_full` (1.9GB subset of the Million Song Dataset)
+* `millionsongsubset_full` (1.9GB 10K song subset of the Million Song Dataset)
 * `artist_similarity.db` (321 MB SQLite database of artist similarity)
 * `msd_summary_file.h5` (301MB summary of what's in the dataset)
 * **TODO** Last.FM API export (my personal listening history since 2005)
@@ -78,3 +78,8 @@ Or, what factors -- if any -- can predict artist or song popularity before it ha
 | track id                    | string         | Echo Nest track ID                            |
 | track 7digitalid            | int            | ID from 7digital.com or -1                    |
 | year                        | int            | song release year from MusicBrainz or 0       |
+
+Dataset citation:
+Thierry Bertin-Mahieux, Daniel P.W. Ellis, Brian Whitman, and Paul Lamere. 
+The Million Song Dataset. In Proceedings of the 12th International Society
+for Music Information Retrieval Conference (ISMIR 2011), 2011.
