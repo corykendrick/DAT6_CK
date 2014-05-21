@@ -20,9 +20,10 @@ Or, what factors -- if any -- can predict artist or song popularity before it ha
 * **TODO** Last.FM API export (my personal listening history since 2005)
 * **TODO** EchoNest API export (for additional features not included below)
 
-More about the _Million Song Dataset_:
+**More about the _Million Song Dataset_:**
+
 | FIELD NAME                  | TYPE           | DESCRIPTION                                   |
-|-----------------------------|----------------|-----------------------------------------------|
+|-----------------------------:|:----------------:|-----------------------------------------------:|
 | analysis sample rate        | float          | sample rate of the audio used                 |
 | artist 7digitalid           | int            | ID from 7digital.com or -1                    |
 | artist familiarity          | float          | algorithmic estimation                        |
