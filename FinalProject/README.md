@@ -1,4 +1,4 @@
-DAT6 final project.
+DAT6 final project: Music Science!
 =======
 Cory Kendrick
 --------------
