@@ -5,7 +5,8 @@ Cory Kendrick
 
 **Objective**: 
 Investigate music listening habits, and identify which features of music listening (at the user level) explain the variance between users.
-Or, what factors -- if any -- can predict artist or song popularity before it happens.
+Or, what factors -- if any -- can predict artist or song popularity before it happens. 
+
 
 **Methods**: 
 * PCA: Feature reduction: which factors are most explanatory of variance?
