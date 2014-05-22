@@ -6,6 +6,8 @@ Cory Kendrick
 **Objective**: 
 Investigate music listening habits, and identify which features of music listening (at the user level) explain the variance between users.
 Or, what factors -- if any -- can predict artist or song popularity before it happens. 
+Consider music "influencers" based on Last.FM listening data -- identify users who were listening to music before they became popular.
+Use PCA feature extraction/selection to identify which attributes of songs are most important in predicting popularity.
 
 
 **Methods**: 
